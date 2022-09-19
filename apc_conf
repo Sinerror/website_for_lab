@@ -1,0 +1,4 @@
+<VirtualHost *:80>
+DocumentRoot /var/www/sh1r0.tk
+ServerName www.sh1r0.tk
+</VirtualHost>
